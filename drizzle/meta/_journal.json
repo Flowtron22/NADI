@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789614740101,
+      "tag": "0000_brave_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789697867417,
+      "tag": "0001_dizzy_franklin_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789699227675,
+      "tag": "0002_red_shiva",
+      "breakpoints": true
+    }
+  ]
+}
